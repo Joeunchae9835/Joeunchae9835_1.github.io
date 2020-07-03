@@ -4,6 +4,13 @@ title: About
 permalink: /about/
 ---
 
+[mediator]테마를 사용했습니다.  
+
+여기에서 다운로드 받을 수 있습니다.  
+[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator)  
+
+-----
+
 A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
 [Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
 
